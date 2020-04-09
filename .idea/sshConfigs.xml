@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ssh.cafeperfeito.com.br" id="761a63c0-023c-4a69-b125-3a89dd7ba573" port="22" customName="ftpcafeperfeito" nameFormat="CUSTOM" username="cafeperfe2" />
+    </configs>
+  </component>
+</project>
